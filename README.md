@@ -26,3 +26,9 @@ Resources owned & maintained by Dynamoose.
 This section contains resources from the Dynamoose community.
 
 If you have something to add to this section, please submit a pull request.
+
+### Courses
+
+#### Video
+
+- [Introduction to Dynamoose](https://learn.rrainn.com/courses/dd4dc0b8-f97d-4a77-9ce5-337d9bb15771)
